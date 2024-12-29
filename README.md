@@ -1,4 +1,4 @@
 # Image-resizer
-This is a app which resizes the images you upload.
+This is an app that resizes the images you upload.
 <br>
-The app is based on Azure cloud, so basixally it's a cloud project.
+The app is based on Azure cloud, so basically, it's a cloud project.
